@@ -1,0 +1,22 @@
+{
+  "name": "kafka_nodejs",
+  "version": "1.0.0",
+  "description": "Basics of using Kafka in NodeJS",
+  "main": "admin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apoorv-asc/kafka_nodejs.git"
+  },
+  "author": "asc11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apoorv-asc/kafka_nodejs/issues"
+  },
+  "homepage": "https://github.com/apoorv-asc/kafka_nodejs#readme",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
